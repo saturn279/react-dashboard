@@ -1,4 +1,4 @@
-Vidrona Test Dashboard 
+Analytics Dashboard 
 
 Made with React, SAP Fiori, Recharts
 
